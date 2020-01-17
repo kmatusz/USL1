@@ -234,7 +234,7 @@ kmeans(data, centers = kmeanspp(data, 3))
 ```
 
 
-The clusterings took a long time to run. I calculated them once in a separate script and loaded the results below. The simulation codes can be found here ... **dfsd** on my github account. I haven't included them here for clarity.
+The clusterings took a long time to run. I calculated them once in a separate script and loaded the results below. The simulation codes can be found [here](https://github.com/kmatusz/USL1/blob/master/run_batch.R) on my github account. I haven't included them here for clarity.
 
 To check the generated datasets clustering tendency, I have plotted their dissimilarity matrices. For bigger dataset with k = 10 I have selected only a sample of random 100 points for faster plot rendering.
 
